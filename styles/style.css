@@ -320,9 +320,9 @@ vw 80v of height of browser
   text-decoration: none;
 }
 
-.bio .say-hi-link {
+.say-hi-link {
   background-color: var(--color-link-bg);
-  color: var(--color-white);
+  color: var();
   padding: 0.7rem 4.7rem;
 }
 
